@@ -11,10 +11,6 @@ const argv = require('yargs')
     .options('line-delimiter', {
       alias: 'd',
     })
-    // TODO : Implement this
-    .options('dyno-nick', {
-      alias: 'n',
-    })
     .options('print-json', {
       alias: 'p',
     })
