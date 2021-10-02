@@ -1,0 +1,12 @@
+{
+  "name": "discord-join-log-parser",
+  "version": "1.0.0",
+  "description": "Parse Dyno join logs to generate easy to use files for anti-bot log submission purposes.  Additionally, it can autogenerate (Dyno) ban commands for every user in the list.  It is your responsibility to confirm no real users are included in this list.",
+  "main": "parser.js",
+  "repository": "https://github.com/carpaltunnel/discord-join-log-parser",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "carpaltunnel",
+  "license": "ISC"
+}
